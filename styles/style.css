@@ -18,15 +18,13 @@ p, li {
 
 
 html {
-  background-color: #D3EAFF;
+  background-color: #fcf8f1;
 }
 
 body {
   width: 1000px;
   margin: 0 auto;
-  background-color: #FFFFFF;
   padding: 20px 20px 20px 20px;
-  border: 1px solid black;
 }
 
 img {
